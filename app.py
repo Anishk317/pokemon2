@@ -1,5 +1,3 @@
 s = '(((2*3)+4)*(15/3))'
 print(s)
-print("Edited from eclipse")
-print("Blissey")
-print("Slowbro")
+l = [1,2,3,4,'Shaktiman']
